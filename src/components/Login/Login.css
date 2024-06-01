@@ -1,0 +1,11 @@
+.wrapper {
+	height: 100vh;
+}
+.login {
+	width: 300px;
+	height: min-content;
+	padding: 20px;
+	border-radius: 5px;
+	color: black;
+	background-color: rgb(238, 241, 243);
+}
